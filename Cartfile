@@ -1,0 +1,7 @@
+github "realm/realm-cocoa"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseAnalyticsBinary.json"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseDatabaseBinary.json"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseFirestoreBinary.json"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseStorageBinary.json"
+github "andresilvagomez/Localize"
+github "alickbass/CodableFirebase"
